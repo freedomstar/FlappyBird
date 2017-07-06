@@ -1,0 +1,40 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="MainScene.csd" />
+          <FilePathData Path="Node.csd" />
+          <FilePathData Path="Layer.csd" />
+          <FilePathData Path="Scene.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="Layer.csd" />
+      </Value>
+    </Item>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Mac" />
+      </Value>
+    </Item>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.FlappyBird" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="android-22" />
+        <iOS_Target Value="FlappyBird-mobile" />
+        <iOS_BundleID Value="Mac Developer: 623243400@qq.com (QVP8CGEDKP)" />
+        <Platform Value="None" />
+        <RunPlatform Value="Mac" />
+        <FrameworkVersion Value="cocos2d-x-3.10" />
+        <IsDebugKeystore Value="True" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>

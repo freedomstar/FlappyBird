@@ -1,0 +1,21 @@
+<Solution>
+  <PropertyGroup Name="FlappyBird" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Image Name="birds.png" />
+        <Image Name="birds_01.png" />
+        <Image Name="birds_02.png" />
+        <Image Name="birds_03.png" />
+        <Image Name="land.png" />
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="Node.csd" Type="Node" />
+        <Image Name="pipe1.png" />
+        <Image Name="pipe2.png" />
+        <Image Name="sky.png" />
+        <Project Name="Layer.csd" Type="Layer" />
+        <Project Name="Scene.csd" Type="Scene" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

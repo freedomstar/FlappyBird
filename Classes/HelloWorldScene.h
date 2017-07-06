@@ -21,6 +21,8 @@ private:
     bool isPass=false;
     int score=0;
     float pipeDistance=200;
+    float pipeSpeed=200;
+    float bgSpeed=300;
     Sprite* pipe1;
     Sprite* pipe2;
     Node* rootNode;
@@ -30,6 +32,10 @@ private:
     void update(float dt);
     bool ContactBegin(const PhysicsContact &contact);
     void playAgainCallback();
+    void gameOver();
+    void changeScore();
+    void pipeMove(float pipeSpeed,float dt);
+    void bgMove(float bgSpeed,float dt);
 };
 
 #endif // __HELLOWORLD_SCENE_H__
